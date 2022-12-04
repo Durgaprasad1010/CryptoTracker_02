@@ -26,7 +26,7 @@ export default function Tabs({ data }) {
   const theme = createTheme({
     palette: {
       primary: {
-        main: "#3a80e9",
+        main: "#26e998",
       },
     },
   });
