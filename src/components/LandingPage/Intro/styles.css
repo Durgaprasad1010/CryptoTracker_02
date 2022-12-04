@@ -24,6 +24,12 @@
   transition: all 0.3s;
 }
 
+.bigHeading2:hover {
+  color: var(--black);
+  -webkit-text-stroke: 2px var(--blue);
+  transition: all 0.3s;
+}
+
 .para {
   color: var(--grey);
   font-weight: 300;
